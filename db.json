@@ -6,7 +6,20 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "teste@gmail.com",
+      "password": "$2a$10$D7LV8VoSc9t0/o6M6HMabelYtaiSM2RBCthzu8qUGch6940ohYaoG",
+      "id": 2
+    },
+    {
+      "email": "ulisses@gmail.com",
+      "password": "$2a$10$hKu3TUoXRwK8.OeJmahuHe8sYMRaNdQ08qzBoAyzgAFsMU0lZ0E2G",
+      "name": "ulisses",
+      "id": 3
     }
   ],
-  "jobs":[{}]
+  "jobs": [
+    {}
+  ]
 }
