@@ -24,7 +24,8 @@
       "contact": "(83)999170135",
       "description": "Trabalho de pedreiro em tempo real",
       "jobCategory":  "pedreiro",
-      "title": "Pedreiro"
+      "title": "Pedreiro",
+      "id":1
     }
   ]
 }
